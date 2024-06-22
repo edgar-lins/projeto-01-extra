@@ -74,6 +74,7 @@ p {
 #footer img {
     width: 100%;
     display: block;
+    position: absolute;
     margin: 40px auto 0;
     left: 0;
     bottom: 0;
